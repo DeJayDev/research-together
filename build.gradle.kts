@@ -23,10 +23,10 @@ dependencies {
     paperweight.paperDevBundle("1.20.1-R0.1-SNAPSHOT")
     compileOnly("com.github.Slimefun:Slimefun4:RC-35")
 
-    compileOnly("dev.jorel:commandapi-bukkit-core:9.1.0")
+    compileOnly("dev.jorel:commandapi-bukkit-core:9.2.0")
 
-    compileOnly("dev.jorel:commandapi-annotations:9.1.0")
-    annotationProcessor("dev.jorel:commandapi-annotations:9.1.0")
+    compileOnly("dev.jorel:commandapi-annotations:9.2.0")
+    annotationProcessor("dev.jorel:commandapi-annotations:9.2.0")
 }
 
 tasks {
